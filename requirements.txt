@@ -1,0 +1,7 @@
+requests
+colorama
+discord.py-self
+gtts
+pyfiglet
+python-whois
+python-dateutil

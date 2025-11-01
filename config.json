@@ -1,0 +1,29 @@
+{
+    "token": "",
+    "prefix": "&",
+    "delete_commands": true,
+    "afk": {
+        "enabled": false,
+        "message": "test"
+    },
+    "autoreply": {
+        "users": [
+            ""
+        ],
+        "channels": [],
+        "messages": [
+            "Hey!",
+            "What's up?",
+            "Cool!"
+        ]
+    },
+    "copycat": {
+        "users": [
+            ""
+        ]
+    },
+    "allowedID": [
+        "604238087731544084",
+        "1342386559202365513"
+    ]
+}
