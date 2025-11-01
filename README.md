@@ -109,9 +109,8 @@ Category	Description
  
  ├── 📜 requirements.txt
  
- ├── 📁 cogs/
+ ├── 📁 commands
  
- ├── 📁 utils/
  
  └── 📜 README.md
  
