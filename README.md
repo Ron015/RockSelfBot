@@ -12,8 +12,8 @@ With **100+ commands**, insane speed, cool UI, and total control right from your
 ✅ **100+ Commands** – Fun, Utility, Tools, Auto, Spam, Network & more  
 ✅ **Easy Configuration** – Just edit `config.json` and you’re done  
 ✅ **Blazing Fast** – Built with `asyncio` for max speed ⚡  
-✅ **Auto Tools** – AFK, Nitro Sniper, Custom Status, AutoPresence 🧠  
-✅ **Advanced Options** – Token, Webhook, IP Tools, Nuke Commands 💣  
+✅ **Auto Tools** – AFK, Custom Status, AutoPresence 🧠  
+✅ **Advanced Options** – Token, Webhook, IP Tools 💣  
 ✅ **Educational Purpose** – Learn Python + Discord API the smart way 😎  
 
 ---
