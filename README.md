@@ -25,7 +25,7 @@ With **100+ commands**, insane speed, cool UI, and total control right from your
 ### Step 1 – Clone the Repo  
 ```bash
 git clone https://github.com/ron015/rockselfbot.git
-cd discord-selfbot
+cd RockSelfBot
 ```
 
 Step 2 – Install Dependencies
